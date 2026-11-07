@@ -37,3 +37,14 @@ src/
 ├── LayananTransaksi.java   # Interface 1 (Kontrak transaksi & struk)
 ├── KontrolKeamanan.java    # Interface 2 (Kontrak sensor & kunci darurat)
 └── Main.java               # Class utama pengujian (Entry Point CLI)
+```
+
+## Screenshot Luaran Program (Terminal Output)
+
+Berikut adalah bukti kompilasi (`javac *.java`) dan eksekusi program (`java Main`) melalui terminal PowerShell IntelliJ IDEA yang memverifikasi kesepuluh persyaratan teknis:
+
+### Bagian 1: Uji Instansiasi, Immutability, dan Abstract Method
+<img width="1917" height="1047" alt="Screenshot 2026-11-08 003103" src="https://github.com/user-attachments/assets/039e1de1-75ef-439a-8250-5657bfffb6bc" />
+
+### Bagian 2: Logika State Percabangan, Polimorfisme, dan Multiple Interface
+<img width="1917" height="1041" alt="Screenshot 2026-11-08 003017" src="https://github.com/user-attachments/assets/c50fb018-9e1b-4a7b-8e36-1e8a79fd33e4" />
